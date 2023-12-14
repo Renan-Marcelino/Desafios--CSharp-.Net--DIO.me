@@ -1,0 +1,15 @@
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\bin\Debug\net8.0\Desvendando o Controle de Fluxo.exe
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\bin\Debug\net8.0\Desvendando o Controle de Fluxo.deps.json
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\bin\Debug\net8.0\Desvendando o Controle de Fluxo.runtimeconfig.json
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\bin\Debug\net8.0\Desvendando o Controle de Fluxo.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\bin\Debug\net8.0\Desvendando o Controle de Fluxo.pdb
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.AssemblyInfoInputs.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.AssemblyInfo.cs
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.csproj.CoreCompileInputs.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.sourcelink.json
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\refint\Desvendando o Controle de Fluxo.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.pdb
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\Desvendando o Controle de Fluxo.genruntimeconfig.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Desvendando o Controle de Fluxo\obj\Debug\net8.0\ref\Desvendando o Controle de Fluxo.dll

@@ -1,0 +1,15 @@
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\bin\Debug\net8.0\Utilizando Array e Listas.exe
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\bin\Debug\net8.0\Utilizando Array e Listas.deps.json
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\bin\Debug\net8.0\Utilizando Array e Listas.runtimeconfig.json
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\bin\Debug\net8.0\Utilizando Array e Listas.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\bin\Debug\net8.0\Utilizando Array e Listas.pdb
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.AssemblyInfoInputs.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.AssemblyInfo.cs
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.csproj.CoreCompileInputs.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.sourcelink.json
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\refint\Utilizando Array e Listas.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.pdb
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\Utilizando Array e Listas.genruntimeconfig.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Criando um Objeto com Atributos\obj\Debug\net8.0\ref\Utilizando Array e Listas.dll

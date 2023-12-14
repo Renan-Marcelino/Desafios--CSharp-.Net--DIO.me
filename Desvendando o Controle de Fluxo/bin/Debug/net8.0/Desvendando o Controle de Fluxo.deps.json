@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desvendando o Controle de Fluxo/1.0.0": {
+        "runtime": {
+          "Desvendando o Controle de Fluxo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desvendando o Controle de Fluxo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
