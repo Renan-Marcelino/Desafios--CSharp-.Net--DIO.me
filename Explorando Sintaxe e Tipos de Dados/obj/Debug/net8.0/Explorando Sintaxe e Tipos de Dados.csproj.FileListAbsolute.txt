@@ -1,0 +1,14 @@
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\bin\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.exe
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\bin\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.deps.json
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\bin\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.runtimeconfig.json
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\bin\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.dll
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\bin\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.pdb
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.AssemblyInfoInputs.cache
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.AssemblyInfo.cs
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.csproj.CoreCompileInputs.cache
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.dll
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\refint\Explorando Sintaxe e Tipos de Dados.dll
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.pdb
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\Explorando Sintaxe e Tipos de Dados.genruntimeconfig.cache
+C:\Desafios de Codigo\Explorando Sintaxe e Tipos de Dados\obj\Debug\net8.0\ref\Explorando Sintaxe e Tipos de Dados.dll
