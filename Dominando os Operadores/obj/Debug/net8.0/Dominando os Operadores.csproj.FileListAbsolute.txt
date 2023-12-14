@@ -1,0 +1,15 @@
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\bin\Debug\net8.0\Dominando os Operadores.exe
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\bin\Debug\net8.0\Dominando os Operadores.deps.json
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\bin\Debug\net8.0\Dominando os Operadores.runtimeconfig.json
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\bin\Debug\net8.0\Dominando os Operadores.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\bin\Debug\net8.0\Dominando os Operadores.pdb
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.AssemblyInfoInputs.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.AssemblyInfo.cs
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.csproj.CoreCompileInputs.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.sourcelink.json
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\refint\Dominando os Operadores.dll
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.pdb
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\Dominando os Operadores.genruntimeconfig.cache
+C:\Desafios de Codigo\Desafios-DIO.me\Dominando os Operadores\obj\Debug\net8.0\ref\Dominando os Operadores.dll
